@@ -104,9 +104,9 @@ Install plotly with
 ```
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://info.kingcounty.gov/assessor/esales/Glossary.aspx?type=r)
 
-https://www.imdb.com/interfaces/
+https://info.kingcounty.gov/assessor/esales/Glossary.aspx?type=r
 
 ## Feedback
 
@@ -153,6 +153,6 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+ source activate env
 ```
 
